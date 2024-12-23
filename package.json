@@ -1,0 +1,25 @@
+{
+  "name": "geo-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "esri-leaflet": "^3.0.14",
+    "geojson-vt": "^3.2.1",
+    "leaflet": "^1.9.4",
+    "next": "14.0.3",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-leaflet": "^4.2.1",
+    "shpjs": "^4.0.4"
+  },
+  "devDependencies": {
+    "eslint": "^8",
+    "eslint-config-next": "14.0.3"
+  }
+}
